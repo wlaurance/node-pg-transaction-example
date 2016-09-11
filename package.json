@@ -1,0 +1,23 @@
+{
+  "name": "node-pg-transaction-example",
+  "version": "1.0.0",
+  "description": "Learn more about Node.js PostgreSQL transactions at https://www.wlaurance.com/2016/09/node.js-postgresql-transactions-and-query-examples/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlaurance/node-pg-transaction-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlaurance/node-pg-transaction-example/issues"
+  },
+  "homepage": "https://github.com/wlaurance/node-pg-transaction-example#readme",
+  "dependencies": {
+    "pg": "^6.1.0"
+  }
+}
